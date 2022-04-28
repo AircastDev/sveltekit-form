@@ -2,6 +2,14 @@
 	"name": "sveltekit-form",
 	"version": "0.1.0",
 	"license": "MIT",
+	"description": "A progressively enhanced form for SvelteKit, similar to Remix's <Form>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/AircastDev/sveltekit-form"
+	},
+	"bugs": "https://github.com/AircastDev/sveltekit-form/issues",
+	"homepage": "https://github.com/AircastDev/sveltekit-form#readme",
+	"author": "James Birtles <james@birtles.dev>",
 	"scripts": {
 		"dev": "svelte-kit dev",
 		"build": "svelte-kit build",
